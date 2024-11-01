@@ -1,2 +1,2 @@
-#Project 1: Lab-Report-Generator
+Project 1: Lab-Report-Generator
 Python script that automates the generation of lab reports for a chemical engineering experiment. The app takes takes raw experimental data, calculates summary statistics and creates visualizations of relationships and automatically creates a lab report in Word. The user can input their name, professor's name, course, and date for the header of the report. The user can also input professor's email to automatically send a copy of the report to their professor. 
